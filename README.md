@@ -1,24 +1,22 @@
 # app-dev
 My first respiratory
-# Stranger Things
+# White Chicks
 
-## About the Series
-*Stranger Things* is a science fiction and horror series created by Netflix.
+## About the Movie
+*White Chicks* is a comedy movie released in 2004 starring Shawn and Marlon Wayans.
 
 ### Why I Like It
-- Interesting story
-- Great character development
-- Suspenseful scenes
+- Funny scenes and jokes
+- Entertaining characters
+- Memorable lines and moments
 
 ## Main Characters
-1. Eleven
-2. Mike
-3. Dustin
-4. Hopper
+1. Kevin Copeland
+2. Marcus Copeland
+3. Brittany Wilson
+4. Tiffany Wilson
 
-> “Friends don't lie.”
-
-![Stranger Things](https://upload.wikimedia.org/wikipedia/en/f/f7/Stranger_Things_season_4.jpg)
+> “Making my way downtown, walking fast…”
 
 ### My Rating
-**9/10**
+**10/10**
